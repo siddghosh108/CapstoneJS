@@ -77,8 +77,7 @@ const renderMeals = async () => {
         if (idLike) {
           const likeCount = +document.querySelector(`.like-${idLike}`)
             .textContent;
-          document.querySelector(`.like-${idLike}`).textContent =
-            likeCount + 1;
+          document.querySelector(`.like-${idLike}`).textContent = likeCount + 1;
           sendLikes({ item_id: `${idLike}` });
         }
       });
@@ -87,8 +86,7 @@ const renderMeals = async () => {
     const likeData = await getLike();
 
     likeData.forEach((like) => {
-      document.querySelector(`.like-${like.item_id}`).textContent =
-        like.likes;
+      document.querySelector(`.like-${like.item_id}`).textContent = like.likes;
     });
   } catch (error) {
     console.error('Error rendering meals:', error);
