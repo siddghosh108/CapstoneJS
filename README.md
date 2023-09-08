@@ -141,13 +141,6 @@ You can deploy this project using:
 - Twitter: [@siddharthaghos9](https://twitter.com/siddharthaghos9)
 - LinkedIn: [@siddhartha-ghosh-65902718](https://www.linkedin.com/in/siddhartha-ghosh-65902718)
 
-👤 **Abu Talha**
-
-- GitHub: [@githubhandle](https://github.com/AbuTalha3)
-- Twitter: [@twitterhandle](https://twitter.com/AbuTalha8T)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abu-talha-8203b252/)
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
