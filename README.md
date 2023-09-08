@@ -61,7 +61,6 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 >
-
 - [Live Demo](https://abutalha3.github.io/csp-js-module2/)
 
 <!-- GETTING STARTED -->
@@ -135,14 +134,6 @@ You can deploy this project using:
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
->
-
-👤 **Abu Talha**
-
-- GitHub: [@githubhandle](https://github.com/AbuTalha3)
-- Twitter: [@twitterhandle](https://twitter.com/AbuTalha8T)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abu-talha-8203b252/)
 
 👤 **Siddhartha Ghosh**
 
