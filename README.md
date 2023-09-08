@@ -61,7 +61,6 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 >
-
 - [Live Demo](https://abutalha3.github.io/csp-js-module2/)
 
 <!-- GETTING STARTED -->
@@ -136,7 +135,11 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
->
+👤 **Siddhartha Ghosh**
+
+- GitHub: [@siddghosh108](https://github.com/siddghosh108)
+- Twitter: [@siddharthaghos9](https://twitter.com/siddharthaghos9)
+- LinkedIn: [@siddhartha-ghosh-65902718](https://www.linkedin.com/in/siddhartha-ghosh-65902718)
 
 👤 **Abu Talha**
 
@@ -144,11 +147,6 @@ You can deploy this project using:
 - Twitter: [@twitterhandle](https://twitter.com/AbuTalha8T)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abu-talha-8203b252/)
 
-👤 **Siddhartha Ghosh**
-
-- GitHub: [@siddghosh108](https://github.com/siddghosh108)
-- Twitter: [@siddharthaghos9](https://twitter.com/siddharthaghos9)
-- LinkedIn: [@siddhartha-ghosh-65902718](https://www.linkedin.com/in/siddhartha-ghosh-65902718)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
