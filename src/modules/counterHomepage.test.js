@@ -10,4 +10,13 @@ describe('counterHomepage', () => {
     const result = counterHomepage(data);
     expect(result).toBe(3);
   });
+
+  test('should return 0 when there are no items on the homepage', () => {
+    // Arrange: Provide an empty data array
+    const data = [];
+    // Act
+    const result = counterHomepage(data);
+    // Assert
+    expect(result).toBe(0);
+  });
 });

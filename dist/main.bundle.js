@@ -922,6 +922,7 @@ module.exports = styleTagTransform;
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _modules_renderMeals_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./modules/renderMeals.js */ "./src/modules/renderMeals.js");
+
 /* harmony import */ var _images_logo_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./images/logo.png */ "./src/images/logo.png");
 /* harmony import */ var _style_index_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./style/index.css */ "./src/style/index.css");
 

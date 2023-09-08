@@ -135,6 +135,12 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
+👤 **Abu Talha**
+
+- GitHub: [@githubhandle](https://github.com/AbuTalha3)
+- Twitter: [@twitterhandle](https://twitter.com/AbuTalha8T)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abu-talha-8203b252/)
+
 👤 **Siddhartha Ghosh**
 
 - GitHub: [@siddghosh108](https://github.com/siddghosh108)
